@@ -9,7 +9,7 @@ namespace _1.projem
     class Program
     {
         static void Main(string[] args)
-        {
+        {/////deneme yapıldı.
         }
     }
 }
